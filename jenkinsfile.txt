@@ -1,3 +1,0 @@
-this is my jenkins file data
-this is my second line
-This is my third line
