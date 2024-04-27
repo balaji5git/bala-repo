@@ -6,7 +6,7 @@
 
   <groupId>com.balajicmd.app</groupId>
   <artifactId>bala-webapp</artifactId>
-  <version>1.0-RELEASE</version>
+  <version>1.0-SNAPSHOT</version>
   <packaging>war</packaging>
 
   <name>bala-webapp Maven Webapp</name>
